@@ -23,6 +23,8 @@ Kotlin
 
 Architecture components
 
+RxJava
+
 Gson
 
 picasso
